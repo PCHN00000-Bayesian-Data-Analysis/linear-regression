@@ -1,1 +1,1 @@
-# linear-regression
+# Bayesian Linear Regression
